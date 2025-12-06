@@ -1,0 +1,8 @@
+   ▲ Next.js 15.3.3
+   - Local:        http://localhost:9002
+   - Network:      http://172.23.80.1:9002
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1763ms
+^C
