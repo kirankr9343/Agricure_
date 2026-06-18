@@ -7,7 +7,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import { LoginDialog } from "@/components/auth/login-dialog";
-
+<meta name="google-adsense-account" content="ca-pub-9720244894158219">
 export default function LandingPage() {
     const heroBg = PlaceHolderImages.find(p => p.id === 'auth-background');
 
